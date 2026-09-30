@@ -34,3 +34,6 @@ The script generates:
 * MATLAB
 * Bright-field time-lapse TIFF images
 * Fluorescence time-lapse TIFF images
+
+## License
+This scripts are licensed under CC BY-NC-SA 4.0
